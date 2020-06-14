@@ -11,7 +11,7 @@ Git é um software livre e usa as linguagens C, Shell e Perl.
 
 Recursos e sobre: 'ramificação e fusão', 'pequeno e rápido', 'distribuído', 'garantia de dados', 'área de preparação', 'código aberto e gratuito', 'marca comercial'. [[2]](#link_2)
 
-**Uma curiosidade sobre o nome 'Git': **[[3]](#link_3)
+**Uma curiosidade sobre o nome 'Git':** [[3]](#link_3)
 
 Citando Linus: 
 
